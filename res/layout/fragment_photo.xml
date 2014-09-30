@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<Button android:text="@string/ambil_gambar"
+		android:id="@+id/tbl_photo"
+	    android:layout_marginTop="10dp"
+		android:layout_width="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+
+	<TextView
+	    android:id="@+id/pesan"
+	    android:text="@string/app_name"
+	    android:textSize="14sp"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10dp"
+	    android:layout_gravity="center_horizontal"
+	    />
+              
+	<TextView
+	    android:id="@+id/detailGambar"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/app_name"
+	    android:layout_marginTop="5dp"
+	    android:layout_gravity="center_horizontal"
+	    />
+          
+	<ImageView
+	    android:id="@+id/tempatGambar"
+	    android:src="@drawable/ic_launcher"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="20dp"
+	    android:layout_gravity="center_horizontal"
+	    android:contentDescription="@string/app_name"
+	    />
+</LinearLayout>

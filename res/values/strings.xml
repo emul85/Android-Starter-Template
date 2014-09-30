@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Framework App</string>
+    <string name="title_activity_login">Login Aplikasi</string>
+    <string name="action_settings">Setting</string>
+    <string name="menu_judul">Pilih menu</string>
+    <string name="tek_pilih_register">New to Twitter? Register here</string>
+    <string name="tek_login">Login</string>
+    <string name="tek_password">Password</string>
+    <string name="tek_email">Email</string>
+    <string name="tek_forgot">Forgot password? Click here!</string>
+    <string name="tek_kembali_login">Click here to login!</string>
+    <string name="tek_sent_password">Send password!</string>
+    <string name="title_activity_forgot">Forgot password</string>
+    <string name="title_activity_dashboard">Aplikasi Kegiatan</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="pilih_gambar">Pilih gambar</string>
+    <string name="upload_gambar">Upload gambar</string>
+    <string name="ambil_gambar">Ambil gambar</string>
+
+    <string-array name="judul_menu">
+        <item>Home</item>
+        <item>About</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="title_activity_main">Main</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_scroll">Scroll Asyek</string>
+
+</resources>

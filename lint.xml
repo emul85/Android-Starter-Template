@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/berita_item.xml" />
+    </issue>
+    <issue id="InlinedApi" severity="ignore" />
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/drawer_layout.xml" />
+    </issue>
+</lint>
